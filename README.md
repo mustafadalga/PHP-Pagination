@@ -1,2 +1,2 @@
-# PHP-Pagination
-PHP ile Sayfalama Yapımı
+# PHP ile Sayfalama Yapımı
+
