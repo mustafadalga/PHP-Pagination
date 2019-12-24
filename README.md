@@ -3,7 +3,7 @@
 
 <hr>
 
-***blog.sql* dosyası içeri aktarıldıktan sonra uygulama çalıştırılabilir.**  
+***blog.sql* dosyası veritabanından içeri aktarıldıktan sonra uygulama çalıştırılabilir.**  
 
 
 <hr>
